@@ -72,6 +72,11 @@
    nav li {
       display: inline-block;
       font-size: 16px;
+      
+   }
+   .product-details {
+      margin: 0;
+      font-size: 16px;
    }
 }
  
